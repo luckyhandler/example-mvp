@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">adorsys_academy_session_three</string>
+    <string name="app_name">MVP example</string>
+    <string name="filter">Filter</string>
 </resources>
